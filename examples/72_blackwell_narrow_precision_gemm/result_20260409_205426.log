@@ -1,0 +1,7392 @@
+
+========== Config: MmaTile=256x128x128, Cluster=2x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0379264 ms
+  GFLOPS: 1.55279e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.128422 ms
+  GFLOPS: 1.83431e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.245171 ms
+  GFLOPS: 1.92165e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.481088 ms
+  GFLOPS: 1.95861e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0235776 ms
+  GFLOPS: 832592
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0743936 ms
+  GFLOPS: 1.0555e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.141952 ms
+  GFLOPS: 1.10632e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.271174 ms
+  GFLOPS: 1.15825e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0393472 ms
+  GFLOPS: 1.49672e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.129882 ms
+  GFLOPS: 1.8137e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.248666 ms
+  GFLOPS: 1.89464e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.48519 ms
+  GFLOPS: 1.94205e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0233536 ms
+  GFLOPS: 840578
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0729216 ms
+  GFLOPS: 1.0768e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.139296 ms
+  GFLOPS: 1.12741e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.268518 ms
+  GFLOPS: 1.16971e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0354816 ms
+  GFLOPS: 1.65978e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.117805 ms
+  GFLOPS: 1.99963e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.226547 ms
+  GFLOPS: 2.07962e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.442176 ms
+  GFLOPS: 2.13097e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0223552 ms
+  GFLOPS: 878119
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0678272 ms
+  GFLOPS: 1.15768e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.127648 ms
+  GFLOPS: 1.23029e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.24535 ms
+  GFLOPS: 1.28016e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0389312 ms
+  GFLOPS: 1.51271e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.128666 ms
+  GFLOPS: 1.83084e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.246195 ms
+  GFLOPS: 1.91365e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.478669 ms
+  GFLOPS: 1.96851e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0229632 ms
+  GFLOPS: 854869
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.068032 ms
+  GFLOPS: 1.15419e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.127827 ms
+  GFLOPS: 1.22857e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.245184 ms
+  GFLOPS: 1.28103e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0403584 ms
+  GFLOPS: 1.45921e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.133984 ms
+  GFLOPS: 1.75817e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.255629 ms
+  GFLOPS: 1.84303e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.497088 ms
+  GFLOPS: 1.89557e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231232 ms
+  GFLOPS: 848954
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0747776 ms
+  GFLOPS: 1.05008e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.142957 ms
+  GFLOPS: 1.09854e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.278778 ms
+  GFLOPS: 1.12666e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0418176 ms
+  GFLOPS: 1.4083e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.137254 ms
+  GFLOPS: 1.71627e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.25911 ms
+  GFLOPS: 1.81827e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.50528 ms
+  GFLOPS: 1.86484e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0235904 ms
+  GFLOPS: 832140
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0737856 ms
+  GFLOPS: 1.06419e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.141734 ms
+  GFLOPS: 1.10802e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.27241 ms
+  GFLOPS: 1.153e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0383488 ms
+  GFLOPS: 1.53568e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.130509 ms
+  GFLOPS: 1.80498e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.24905 ms
+  GFLOPS: 1.89172e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.486413 ms
+  GFLOPS: 1.93717e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0210944 ms
+  GFLOPS: 930604
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0645376 ms
+  GFLOPS: 1.21669e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.123552 ms
+  GFLOPS: 1.27108e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.235744 ms
+  GFLOPS: 1.33233e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0397504 ms
+  GFLOPS: 1.48153e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.133133 ms
+  GFLOPS: 1.76941e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.253786 ms
+  GFLOPS: 1.85642e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.492986 ms
+  GFLOPS: 1.91134e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.023392 ms
+  GFLOPS: 839198
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.064352 ms
+  GFLOPS: 1.2202e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.122938 ms
+  GFLOPS: 1.27743e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.231251 ms
+  GFLOPS: 1.35821e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.04368 ms
+  GFLOPS: 1.34825e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.141568 ms
+  GFLOPS: 1.66398e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.269152 ms
+  GFLOPS: 1.75043e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.521242 ms
+  GFLOPS: 1.80773e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0247936 ms
+  GFLOPS: 791758
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0784896 ms
+  GFLOPS: 1.00041e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.151392 ms
+  GFLOPS: 1.03733e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.29145 ms
+  GFLOPS: 1.07768e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0438464 ms
+  GFLOPS: 1.34313e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.142989 ms
+  GFLOPS: 1.64745e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.272403 ms
+  GFLOPS: 1.72954e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.530246 ms
+  GFLOPS: 1.77703e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02624 ms
+  GFLOPS: 748114
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0815296 ms
+  GFLOPS: 963111
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.151174 ms
+  GFLOPS: 1.03883e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.293088 ms
+  GFLOPS: 1.07165e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0411648 ms
+  GFLOPS: 1.43063e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.141126 ms
+  GFLOPS: 1.66919e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.268314 ms
+  GFLOPS: 1.7559e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.525741 ms
+  GFLOPS: 1.79226e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0227648 ms
+  GFLOPS: 862319
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0710848 ms
+  GFLOPS: 1.10463e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.135802 ms
+  GFLOPS: 1.15642e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.257466 ms
+  GFLOPS: 1.21992e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=2x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.042912 ms
+  GFLOPS: 1.37238e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.145037 ms
+  GFLOPS: 1.62418e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.277312 ms
+  GFLOPS: 1.69893e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.540922 ms
+  GFLOPS: 1.74196e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.023776 ms
+  GFLOPS: 825644
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0733632 ms
+  GFLOPS: 1.07032e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.138048 ms
+  GFLOPS: 1.13761e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.261152 ms
+  GFLOPS: 1.2027e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.066592 ms
+  GFLOPS: 884364
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.134989 ms
+  GFLOPS: 1.74508e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.254579 ms
+  GFLOPS: 1.85063e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.498714 ms
+  GFLOPS: 1.88939e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231872 ms
+  GFLOPS: 846610
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0715136 ms
+  GFLOPS: 1.098e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.133818 ms
+  GFLOPS: 1.17357e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.258112 ms
+  GFLOPS: 1.21687e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0680192 ms
+  GFLOPS: 865808
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.138874 ms
+  GFLOPS: 1.69626e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.264237 ms
+  GFLOPS: 1.78299e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.515501 ms
+  GFLOPS: 1.82786e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0238336 ms
+  GFLOPS: 823649
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0721344 ms
+  GFLOPS: 1.08855e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.133587 ms
+  GFLOPS: 1.17559e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.259098 ms
+  GFLOPS: 1.21224e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0633664 ms
+  GFLOPS: 929382
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.125165 ms
+  GFLOPS: 1.88205e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.238438 ms
+  GFLOPS: 1.97591e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.466771 ms
+  GFLOPS: 2.01869e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02112 ms
+  GFLOPS: 929475
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0629504 ms
+  GFLOPS: 1.24736e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.117798 ms
+  GFLOPS: 1.33316e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.226746 ms
+  GFLOPS: 1.3852e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0633088 ms
+  GFLOPS: 930227
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.132768 ms
+  GFLOPS: 1.77427e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.25319 ms
+  GFLOPS: 1.86078e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.495034 ms
+  GFLOPS: 1.90344e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0225152 ms
+  GFLOPS: 871879
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.061472 ms
+  GFLOPS: 1.27736e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.114323 ms
+  GFLOPS: 1.37369e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.220192 ms
+  GFLOPS: 1.42643e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0436928 ms
+  GFLOPS: 1.34786e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.141146 ms
+  GFLOPS: 1.66896e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.26791 ms
+  GFLOPS: 1.75855e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.521267 ms
+  GFLOPS: 1.80764e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231488 ms
+  GFLOPS: 848015
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0698688 ms
+  GFLOPS: 1.12385e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.131706 ms
+  GFLOPS: 1.19239e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.255027 ms
+  GFLOPS: 1.23159e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0438528 ms
+  GFLOPS: 1.34294e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.142566 ms
+  GFLOPS: 1.65233e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.270784 ms
+  GFLOPS: 1.73988e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.527366 ms
+  GFLOPS: 1.78674e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0254208 ms
+  GFLOPS: 772223
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0713152 ms
+  GFLOPS: 1.10106e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.131917 ms
+  GFLOPS: 1.19048e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.252141 ms
+  GFLOPS: 1.24569e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0399808 ms
+  GFLOPS: 1.473e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.135386 ms
+  GFLOPS: 1.73997e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.259315 ms
+  GFLOPS: 1.81683e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.508128 ms
+  GFLOPS: 1.85439e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0210816 ms
+  GFLOPS: 931169
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0604288 ms
+  GFLOPS: 1.29942e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.111629 ms
+  GFLOPS: 1.40684e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.214253 ms
+  GFLOPS: 1.46597e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0438528 ms
+  GFLOPS: 1.34294e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.144621 ms
+  GFLOPS: 1.62885e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.27609 ms
+  GFLOPS: 1.70645e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.539674 ms
+  GFLOPS: 1.74599e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.021312 ms
+  GFLOPS: 921102
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0614592 ms
+  GFLOPS: 1.27763e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.112659 ms
+  GFLOPS: 1.39398e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.214048 ms
+  GFLOPS: 1.46737e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0457152 ms
+  GFLOPS: 1.28823e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.150547 ms
+  GFLOPS: 1.56473e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.289606 ms
+  GFLOPS: 1.6268e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.562202 ms
+  GFLOPS: 1.67603e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.025632 ms
+  GFLOPS: 765860
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0768256 ms
+  GFLOPS: 1.02208e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.145235 ms
+  GFLOPS: 1.08131e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.272621 ms
+  GFLOPS: 1.15211e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0459008 ms
+  GFLOPS: 1.28302e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.156115 ms
+  GFLOPS: 1.50893e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.306406 ms
+  GFLOPS: 1.53761e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.603968 ms
+  GFLOPS: 1.56012e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0273088 ms
+  GFLOPS: 718835
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0791104 ms
+  GFLOPS: 992563
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.148717 ms
+  GFLOPS: 1.05599e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.288819 ms
+  GFLOPS: 1.08749e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0436416 ms
+  GFLOPS: 1.34944e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.152634 ms
+  GFLOPS: 1.54334e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.294317 ms
+  GFLOPS: 1.60077e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.581882 ms
+  GFLOPS: 1.61934e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231744 ms
+  GFLOPS: 847078
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.07232 ms
+  GFLOPS: 1.08576e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.135808 ms
+  GFLOPS: 1.15637e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.26135 ms
+  GFLOPS: 1.20179e+06
+
+
+========== Config: MmaTile=256x128x128, Cluster=4x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0461184 ms
+  GFLOPS: 1.27696e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.160614 ms
+  GFLOPS: 1.46666e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.312973 ms
+  GFLOPS: 1.50535e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.612582 ms
+  GFLOPS: 1.53819e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0250176 ms
+  GFLOPS: 784668
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0741696 ms
+  GFLOPS: 1.05868e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.138067 ms
+  GFLOPS: 1.13745e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.266528 ms
+  GFLOPS: 1.17844e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.039552 ms
+  GFLOPS: 1.48897e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.128026 ms
+  GFLOPS: 1.83999e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.247021 ms
+  GFLOPS: 1.90726e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.480269 ms
+  GFLOPS: 1.96195e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231552 ms
+  GFLOPS: 847780
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0710976 ms
+  GFLOPS: 1.10443e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.133363 ms
+  GFLOPS: 1.17757e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.255443 ms
+  GFLOPS: 1.22958e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0417984 ms
+  GFLOPS: 1.40894e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.138893 ms
+  GFLOPS: 1.69603e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.266458 ms
+  GFLOPS: 1.76813e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.518784 ms
+  GFLOPS: 1.8163e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0245632 ms
+  GFLOPS: 799184
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.07216 ms
+  GFLOPS: 1.08817e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.136013 ms
+  GFLOPS: 1.15463e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.259494 ms
+  GFLOPS: 1.21039e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0395712 ms
+  GFLOPS: 1.48824e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.129274 ms
+  GFLOPS: 1.82223e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.250912 ms
+  GFLOPS: 1.87768e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.485606 ms
+  GFLOPS: 1.94039e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0224 ms
+  GFLOPS: 876363
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0686528 ms
+  GFLOPS: 1.14376e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.12969 ms
+  GFLOPS: 1.21092e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.25113 ms
+  GFLOPS: 1.2507e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0418112 ms
+  GFLOPS: 1.40851e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.13808 ms
+  GFLOPS: 1.70601e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.264614 ms
+  GFLOPS: 1.78045e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.516326 ms
+  GFLOPS: 1.82494e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0238208 ms
+  GFLOPS: 824092
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0696384 ms
+  GFLOPS: 1.12757e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.131494 ms
+  GFLOPS: 1.1943e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.252134 ms
+  GFLOPS: 1.24572e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0420352 ms
+  GFLOPS: 1.40101e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.139501 ms
+  GFLOPS: 1.68864e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.267546 ms
+  GFLOPS: 1.76094e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.51959 ms
+  GFLOPS: 1.81348e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0236224 ms
+  GFLOPS: 831013
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0682432 ms
+  GFLOPS: 1.15062e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.130477 ms
+  GFLOPS: 1.20362e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.247238 ms
+  GFLOPS: 1.27039e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0442496 ms
+  GFLOPS: 1.33089e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.150355 ms
+  GFLOPS: 1.56673e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.287155 ms
+  GFLOPS: 1.64069e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.560141 ms
+  GFLOPS: 1.68219e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0233792 ms
+  GFLOPS: 839658
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0713024 ms
+  GFLOPS: 1.10125e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.134797 ms
+  GFLOPS: 1.16504e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.254579 ms
+  GFLOPS: 1.23375e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.041216 ms
+  GFLOPS: 1.42885e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.140314 ms
+  GFLOPS: 1.67886e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.269741 ms
+  GFLOPS: 1.74661e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.527776 ms
+  GFLOPS: 1.78535e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0212864 ms
+  GFLOPS: 922210
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0665984 ms
+  GFLOPS: 1.17904e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.126406 ms
+  GFLOPS: 1.24238e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.238464 ms
+  GFLOPS: 1.31713e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0436544 ms
+  GFLOPS: 1.34904e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.147475 ms
+  GFLOPS: 1.59733e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.2808 ms
+  GFLOPS: 1.67782e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.548282 ms
+  GFLOPS: 1.71858e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0229504 ms
+  GFLOPS: 855346
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0684864 ms
+  GFLOPS: 1.14654e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.127008 ms
+  GFLOPS: 1.23649e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.239648 ms
+  GFLOPS: 1.31062e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0459008 ms
+  GFLOPS: 1.28302e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.150976 ms
+  GFLOPS: 1.56029e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.289222 ms
+  GFLOPS: 1.62896e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.561389 ms
+  GFLOPS: 1.67845e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0252224 ms
+  GFLOPS: 778297
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0751936 ms
+  GFLOPS: 1.04427e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.141555 ms
+  GFLOPS: 1.10942e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.270976 ms
+  GFLOPS: 1.1591e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0479488 ms
+  GFLOPS: 1.22822e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.163872 ms
+  GFLOPS: 1.4375e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.316666 ms
+  GFLOPS: 1.48779e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.618765 ms
+  GFLOPS: 1.52282e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.025408 ms
+  GFLOPS: 772612
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0807168 ms
+  GFLOPS: 972810
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.153638 ms
+  GFLOPS: 1.02217e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.29415 ms
+  GFLOPS: 1.06778e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.043648 ms
+  GFLOPS: 1.34924e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.151789 ms
+  GFLOPS: 1.55193e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.294534 ms
+  GFLOPS: 1.59958e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.572845 ms
+  GFLOPS: 1.64489e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.023168 ms
+  GFLOPS: 847312
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0759872 ms
+  GFLOPS: 1.03336e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.143168 ms
+  GFLOPS: 1.09692e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.27344 ms
+  GFLOPS: 1.14866e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=2x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.046944 ms
+  GFLOPS: 1.25451e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.160595 ms
+  GFLOPS: 1.46683e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.307066 ms
+  GFLOPS: 1.53431e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.601094 ms
+  GFLOPS: 1.56758e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0253824 ms
+  GFLOPS: 773391
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0782848 ms
+  GFLOPS: 1.00303e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.145824 ms
+  GFLOPS: 1.07694e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.277811 ms
+  GFLOPS: 1.13058e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0645504 ms
+  GFLOPS: 912335
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.138272 ms
+  GFLOPS: 1.70364e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.265459 ms
+  GFLOPS: 1.77478e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.517958 ms
+  GFLOPS: 1.81919e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231552 ms
+  GFLOPS: 847780
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.066592 ms
+  GFLOPS: 1.17915e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.12151 ms
+  GFLOPS: 1.29243e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.238592 ms
+  GFLOPS: 1.31642e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0704768 ms
+  GFLOPS: 835616
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.150374 ms
+  GFLOPS: 1.56653e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.28921 ms
+  GFLOPS: 1.62903e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.564659 ms
+  GFLOPS: 1.66873e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0241792 ms
+  GFLOPS: 811876
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0713408 ms
+  GFLOPS: 1.10066e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.131098 ms
+  GFLOPS: 1.19792e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.251731 ms
+  GFLOPS: 1.24771e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0641344 ms
+  GFLOPS: 918252
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.13991 ms
+  GFLOPS: 1.68369e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.269325 ms
+  GFLOPS: 1.74931e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.526573 ms
+  GFLOPS: 1.78943e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0210944 ms
+  GFLOPS: 930604
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0635264 ms
+  GFLOPS: 1.23605e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.117024 ms
+  GFLOPS: 1.34198e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.225715 ms
+  GFLOPS: 1.39153e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0645504 ms
+  GFLOPS: 912335
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.146656 ms
+  GFLOPS: 1.60625e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.279968 ms
+  GFLOPS: 1.68281e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.549517 ms
+  GFLOPS: 1.71472e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0233216 ms
+  GFLOPS: 841731
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0643328 ms
+  GFLOPS: 1.22056e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.117171 ms
+  GFLOPS: 1.3403e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.22489 ms
+  GFLOPS: 1.39663e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0465088 ms
+  GFLOPS: 1.26625e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.150157 ms
+  GFLOPS: 1.5688e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.286778 ms
+  GFLOPS: 1.64285e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.558515 ms
+  GFLOPS: 1.68709e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.023552 ms
+  GFLOPS: 833497
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0678272 ms
+  GFLOPS: 1.15768e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.124736 ms
+  GFLOPS: 1.25901e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.238618 ms
+  GFLOPS: 1.31628e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0495616 ms
+  GFLOPS: 1.18825e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.163462 ms
+  GFLOPS: 1.4411e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.314592 ms
+  GFLOPS: 1.4976e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.616678 ms
+  GFLOPS: 1.52797e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231744 ms
+  GFLOPS: 847078
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.07088 ms
+  GFLOPS: 1.10782e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.13152 ms
+  GFLOPS: 1.19407e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.250125 ms
+  GFLOPS: 1.25573e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0452864 ms
+  GFLOPS: 1.30043e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.149722 ms
+  GFLOPS: 1.57336e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.289818 ms
+  GFLOPS: 1.62562e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.565907 ms
+  GFLOPS: 1.66505e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0215232 ms
+  GFLOPS: 912063
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0661504 ms
+  GFLOPS: 1.18702e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.121856 ms
+  GFLOPS: 1.28877e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.232653 ms
+  GFLOPS: 1.35003e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.047776 ms
+  GFLOPS: 1.23266e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.157722 ms
+  GFLOPS: 1.49356e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.304166 ms
+  GFLOPS: 1.54893e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.597856 ms
+  GFLOPS: 1.57607e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0229056 ms
+  GFLOPS: 857018
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0680064 ms
+  GFLOPS: 1.15463e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.124525 ms
+  GFLOPS: 1.26115e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.23696 ms
+  GFLOPS: 1.32549e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0481408 ms
+  GFLOPS: 1.22332e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.168186 ms
+  GFLOPS: 1.40063e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.327686 ms
+  GFLOPS: 1.43775e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.641062 ms
+  GFLOPS: 1.46985e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0268864 ms
+  GFLOPS: 730128
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0788928 ms
+  GFLOPS: 995301
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.146035 ms
+  GFLOPS: 1.07539e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.281229 ms
+  GFLOPS: 1.11684e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0520384 ms
+  GFLOPS: 1.13169e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.179846 ms
+  GFLOPS: 1.30982e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.35065 ms
+  GFLOPS: 1.3436e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.688979 ms
+  GFLOPS: 1.36762e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0274624 ms
+  GFLOPS: 714815
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0848128 ms
+  GFLOPS: 925828
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.158547 ms
+  GFLOPS: 990520
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.306598 ms
+  GFLOPS: 1.02443e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0469248 ms
+  GFLOPS: 1.25502e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.169408 ms
+  GFLOPS: 1.39053e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.329344 ms
+  GFLOPS: 1.43052e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.649651 ms
+  GFLOPS: 1.45042e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0245888 ms
+  GFLOPS: 798352
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0780608 ms
+  GFLOPS: 1.00591e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.146451 ms
+  GFLOPS: 1.07233e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.282656 ms
+  GFLOPS: 1.1112e+06
+
+
+========== Config: MmaTile=256x128x256, Cluster=4x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0502208 ms
+  GFLOPS: 1.17265e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.179456 ms
+  GFLOPS: 1.31267e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.347181 ms
+  GFLOPS: 1.35702e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.679968 ms
+  GFLOPS: 1.38575e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0273984 ms
+  GFLOPS: 716484
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0815104 ms
+  GFLOPS: 963338
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.152371 ms
+  GFLOPS: 1.03067e+06
+
+Using GPU 3
+  MmaTileShape: _256x_128x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.292659 ms
+  GFLOPS: 1.07322e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.043232 ms
+  GFLOPS: 1.36222e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.130906 ms
+  GFLOPS: 1.79951e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.244358 ms
+  GFLOPS: 1.92804e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.467181 ms
+  GFLOPS: 2.01692e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0256256 ms
+  GFLOPS: 766051
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0735616 ms
+  GFLOPS: 1.06743e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.133382 ms
+  GFLOPS: 1.1774e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.247226 ms
+  GFLOPS: 1.27045e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0417984 ms
+  GFLOPS: 1.40894e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.130688 ms
+  GFLOPS: 1.80251e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.242112 ms
+  GFLOPS: 1.94593e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.464358 ms
+  GFLOPS: 2.02918e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0252224 ms
+  GFLOPS: 778297
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0680384 ms
+  GFLOPS: 1.15408e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.122502 ms
+  GFLOPS: 1.28197e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.226944 ms
+  GFLOPS: 1.38399e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0354496 ms
+  GFLOPS: 1.66128e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.110842 ms
+  GFLOPS: 2.12525e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.206906 ms
+  GFLOPS: 2.27704e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.397754 ms
+  GFLOPS: 2.36897e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0227712 ms
+  GFLOPS: 862077
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0645632 ms
+  GFLOPS: 1.2162e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.119872 ms
+  GFLOPS: 1.3101e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.22247 ms
+  GFLOPS: 1.41182e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0418112 ms
+  GFLOPS: 1.40851e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.130701 ms
+  GFLOPS: 1.80233e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.245805 ms
+  GFLOPS: 1.91669e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.477018 ms
+  GFLOPS: 1.97533e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0250112 ms
+  GFLOPS: 784869
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0696576 ms
+  GFLOPS: 1.12726e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.126618 ms
+  GFLOPS: 1.2403e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.235366 ms
+  GFLOPS: 1.33447e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0465088 ms
+  GFLOPS: 1.26625e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.14441 ms
+  GFLOPS: 1.63124e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.269734 ms
+  GFLOPS: 1.74665e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.521645 ms
+  GFLOPS: 1.80633e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0276736 ms
+  GFLOPS: 709359
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0752 ms
+  GFLOPS: 1.04418e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.13705 ms
+  GFLOPS: 1.14589e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.250739 ms
+  GFLOPS: 1.25265e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0471296 ms
+  GFLOPS: 1.24957e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.143802 ms
+  GFLOPS: 1.63813e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.270784 ms
+  GFLOPS: 1.73988e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.52288 ms
+  GFLOPS: 1.80207e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0282752 ms
+  GFLOPS: 694266
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.075424 ms
+  GFLOPS: 1.04108e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.138483 ms
+  GFLOPS: 1.13403e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.254579 ms
+  GFLOPS: 1.23375e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.039136 ms
+  GFLOPS: 1.50479e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.122701 ms
+  GFLOPS: 1.91984e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.231059 ms
+  GFLOPS: 2.03901e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.44791 ms
+  GFLOPS: 2.10369e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0247936 ms
+  GFLOPS: 791758
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.069856 ms
+  GFLOPS: 1.12406e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.130496 ms
+  GFLOPS: 1.20344e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.245581 ms
+  GFLOPS: 1.27896e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0442496 ms
+  GFLOPS: 1.33089e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.146662 ms
+  GFLOPS: 1.60618e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.278963 ms
+  GFLOPS: 1.68887e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.548288 ms
+  GFLOPS: 1.71856e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0272704 ms
+  GFLOPS: 719847
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0770304 ms
+  GFLOPS: 1.01936e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.143379 ms
+  GFLOPS: 1.09531e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.268934 ms
+  GFLOPS: 1.1679e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0539008 ms
+  GFLOPS: 1.09259e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.174739 ms
+  GFLOPS: 1.3481e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.334266 ms
+  GFLOPS: 1.40946e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.654189 ms
+  GFLOPS: 1.44036e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.033408 ms
+  GFLOPS: 587599
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0940352 ms
+  GFLOPS: 835029
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.173907 ms
+  GFLOPS: 903034
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.330995 ms
+  GFLOPS: 948921
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0539456 ms
+  GFLOPS: 1.09168e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.17616 ms
+  GFLOPS: 1.33723e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.33529 ms
+  GFLOPS: 1.40515e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.656205 ms
+  GFLOPS: 1.43593e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0327936 ms
+  GFLOPS: 598608
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0954752 ms
+  GFLOPS: 822434
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.17415 ms
+  GFLOPS: 901773
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.333427 ms
+  GFLOPS: 942000
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0421952 ms
+  GFLOPS: 1.39569e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.139898 ms
+  GFLOPS: 1.68385e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.266278 ms
+  GFLOPS: 1.76932e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.519187 ms
+  GFLOPS: 1.81488e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02688 ms
+  GFLOPS: 730302
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0788736 ms
+  GFLOPS: 995543
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.147718 ms
+  GFLOPS: 1.06313e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.27447 ms
+  GFLOPS: 1.14434e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=2x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0514496 ms
+  GFLOPS: 1.14465e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.17657 ms
+  GFLOPS: 1.33413e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.336307 ms
+  GFLOPS: 1.4009e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.668512 ms
+  GFLOPS: 1.4095e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0301504 ms
+  GFLOPS: 651087
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0938176 ms
+  GFLOPS: 836965
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.174944 ms
+  GFLOPS: 897683
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.33488 ms
+  GFLOPS: 937913
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0478016 ms
+  GFLOPS: 1.232e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.144422 ms
+  GFLOPS: 1.63109e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.269549 ms
+  GFLOPS: 1.74786e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.523302 ms
+  GFLOPS: 1.80061e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02688 ms
+  GFLOPS: 730302
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0692224 ms
+  GFLOPS: 1.13435e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.12311 ms
+  GFLOPS: 1.27564e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.226938 ms
+  GFLOPS: 1.38403e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0473472 ms
+  GFLOPS: 1.24382e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.143386 ms
+  GFLOPS: 1.64289e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.268928 ms
+  GFLOPS: 1.75189e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.520013 ms
+  GFLOPS: 1.812e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02528 ms
+  GFLOPS: 776524
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0688384 ms
+  GFLOPS: 1.14067e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.122502 ms
+  GFLOPS: 1.28197e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.227162 ms
+  GFLOPS: 1.38266e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.03728 ms
+  GFLOPS: 1.57971e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.11673 ms
+  GFLOPS: 2.01805e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.218349 ms
+  GFLOPS: 2.15771e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.420902 ms
+  GFLOPS: 2.23868e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0211584 ms
+  GFLOPS: 927789
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0604544 ms
+  GFLOPS: 1.29886e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.111635 ms
+  GFLOPS: 1.40676e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.206886 ms
+  GFLOPS: 1.51817e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0454912 ms
+  GFLOPS: 1.29457e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.144205 ms
+  GFLOPS: 1.63355e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.273658 ms
+  GFLOPS: 1.72161e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.532294 ms
+  GFLOPS: 1.7702e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0240384 ms
+  GFLOPS: 816632
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0667968 ms
+  GFLOPS: 1.17554e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.122944 ms
+  GFLOPS: 1.27736e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.229613 ms
+  GFLOPS: 1.3679e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0497856 ms
+  GFLOPS: 1.1829e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.156704 ms
+  GFLOPS: 1.50326e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.296544 ms
+  GFLOPS: 1.58874e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.580634 ms
+  GFLOPS: 1.62282e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0289024 ms
+  GFLOPS: 679200
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0789056 ms
+  GFLOPS: 995140
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.140742 ms
+  GFLOPS: 1.11583e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.263808 ms
+  GFLOPS: 1.19059e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0499904 ms
+  GFLOPS: 1.17806e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.158138 ms
+  GFLOPS: 1.48963e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.297818 ms
+  GFLOPS: 1.58195e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.580621 ms
+  GFLOPS: 1.62286e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0278784 ms
+  GFLOPS: 704148
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0823616 ms
+  GFLOPS: 953382
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.14585 ms
+  GFLOPS: 1.07675e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.274483 ms
+  GFLOPS: 1.14429e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0393408 ms
+  GFLOPS: 1.49696e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.128442 ms
+  GFLOPS: 1.83403e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.242515 ms
+  GFLOPS: 1.94269e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.470445 ms
+  GFLOPS: 2.00292e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0232064 ms
+  GFLOPS: 845910
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0686592 ms
+  GFLOPS: 1.14365e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.125997 ms
+  GFLOPS: 1.24641e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.236365 ms
+  GFLOPS: 1.32883e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.047776 ms
+  GFLOPS: 1.23266e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.161011 ms
+  GFLOPS: 1.46304e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.306477 ms
+  GFLOPS: 1.53725e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.605619 ms
+  GFLOPS: 1.55587e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0272704 ms
+  GFLOPS: 719847
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0790976 ms
+  GFLOPS: 992724
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.148749 ms
+  GFLOPS: 1.05577e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.282451 ms
+  GFLOPS: 1.11201e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0592384 ms
+  GFLOPS: 994145
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.191123 ms
+  GFLOPS: 1.23254e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.367437 ms
+  GFLOPS: 1.28221e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.721754 ms
+  GFLOPS: 1.30552e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0354496 ms
+  GFLOPS: 553759
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.102016 ms
+  GFLOPS: 769704
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.189107 ms
+  GFLOPS: 830451
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.36375 ms
+  GFLOPS: 863472
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0592384 ms
+  GFLOPS: 994145
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.192122 ms
+  GFLOPS: 1.22613e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.368666 ms
+  GFLOPS: 1.27794e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.723392 ms
+  GFLOPS: 1.30256e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0354752 ms
+  GFLOPS: 553359
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.102906 ms
+  GFLOPS: 763050
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.191322 ms
+  GFLOPS: 820839
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.367443 ms
+  GFLOPS: 854794
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0436736 ms
+  GFLOPS: 1.34845e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.145235 ms
+  GFLOPS: 1.62196e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.274477 ms
+  GFLOPS: 1.71647e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.538035 ms
+  GFLOPS: 1.75131e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0266624 ms
+  GFLOPS: 736262
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0788928 ms
+  GFLOPS: 995301
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.146874 ms
+  GFLOPS: 1.06925e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.281837 ms
+  GFLOPS: 1.11443e+06
+
+
+========== Config: MmaTile=256x256x128, Cluster=4x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0553216 ms
+  GFLOPS: 1.06453e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.188026 ms
+  GFLOPS: 1.25284e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.363334 ms
+  GFLOPS: 1.29669e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.722144 ms
+  GFLOPS: 1.30482e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0311616 ms
+  GFLOPS: 629959
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0995712 ms
+  GFLOPS: 788602
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.186803 ms
+  GFLOPS: 840693
+
+Using GPU 3
+  MmaTileShape: _256x_256x_128
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.361504 ms
+  GFLOPS: 868838
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0457344 ms
+  GFLOPS: 1.28769e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.146464 ms
+  GFLOPS: 1.60836e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.273702 ms
+  GFLOPS: 1.72133e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.523296 ms
+  GFLOPS: 1.80063e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0272576 ms
+  GFLOPS: 720185
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0796992 ms
+  GFLOPS: 985231
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.137453 ms
+  GFLOPS: 1.14253e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.249466 ms
+  GFLOPS: 1.25904e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0487616 ms
+  GFLOPS: 1.20774e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.155661 ms
+  GFLOPS: 1.51333e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.292083 ms
+  GFLOPS: 1.61301e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.562605 ms
+  GFLOPS: 1.67483e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0272704 ms
+  GFLOPS: 719847
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0770432 ms
+  GFLOPS: 1.0192e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.135213 ms
+  GFLOPS: 1.16146e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.244992 ms
+  GFLOPS: 1.28204e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0436672 ms
+  GFLOPS: 1.34865e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.148096 ms
+  GFLOPS: 1.59063e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.278138 ms
+  GFLOPS: 1.69388e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.546656 ms
+  GFLOPS: 1.72369e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0231616 ms
+  GFLOPS: 847546
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0739584 ms
+  GFLOPS: 1.06171e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.133344 ms
+  GFLOPS: 1.17774e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.248646 ms
+  GFLOPS: 1.26319e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.135008 ms
+  GFLOPS: 436208
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.488474 ms
+  GFLOPS: 482250
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.963827 ms
+  GFLOPS: 488814
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 1.9065 ms
+  GFLOPS: 494239
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0520064 ms
+  GFLOPS: 377464
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.191712 ms
+  GFLOPS: 409584
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.370925 ms
+  GFLOPS: 423385
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.725875 ms
+  GFLOPS: 432703
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0477376 ms
+  GFLOPS: 1.23365e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.161229 ms
+  GFLOPS: 1.46107e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.306816 ms
+  GFLOPS: 1.53555e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.592928 ms
+  GFLOPS: 1.58917e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.03136 ms
+  GFLOPS: 625973
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0879104 ms
+  GFLOPS: 893206
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.159962 ms
+  GFLOPS: 981762
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.29536 ms
+  GFLOPS: 1.06341e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0520512 ms
+  GFLOPS: 1.13142e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.173293 ms
+  GFLOPS: 1.35935e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.330176 ms
+  GFLOPS: 1.42691e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.64352 ms
+  GFLOPS: 1.46424e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0309696 ms
+  GFLOPS: 633864
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0913728 ms
+  GFLOPS: 859360
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.166317 ms
+  GFLOPS: 944247
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.307629 ms
+  GFLOPS: 1.021e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0457024 ms
+  GFLOPS: 1.28859e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.164486 ms
+  GFLOPS: 1.43213e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.317715 ms
+  GFLOPS: 1.48288e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.623232 ms
+  GFLOPS: 1.5119e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.027264 ms
+  GFLOPS: 720016
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0862336 ms
+  GFLOPS: 910574
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.159974 ms
+  GFLOPS: 981683
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.309075 ms
+  GFLOPS: 1.01622e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.154266 ms
+  GFLOPS: 381754
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.555674 ms
+  GFLOPS: 423929
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 1.08568 ms
+  GFLOPS: 433953
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 2.14532 ms
+  GFLOPS: 439219
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0721024 ms
+  GFLOPS: 272259
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.25623 ms
+  GFLOPS: 306451
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.502419 ms
+  GFLOPS: 312576
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.975706 ms
+  GFLOPS: 321909
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0559296 ms
+  GFLOPS: 1.05296e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.195622 ms
+  GFLOPS: 1.20419e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.373606 ms
+  GFLOPS: 1.26104e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.730752 ms
+  GFLOPS: 1.28945e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0354688 ms
+  GFLOPS: 553459
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.110003 ms
+  GFLOPS: 713816
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.203853 ms
+  GFLOPS: 770380
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.384653 ms
+  GFLOPS: 816550
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0602368 ms
+  GFLOPS: 977668
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.212614 ms
+  GFLOPS: 1.10795e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.408397 ms
+  GFLOPS: 1.15361e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.801638 ms
+  GFLOPS: 1.17542e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0360896 ms
+  GFLOPS: 543938
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.115949 ms
+  GFLOPS: 677213
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.219187 ms
+  GFLOPS: 716484
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.41657 ms
+  GFLOPS: 753988
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0522496 ms
+  GFLOPS: 1.12712e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.193562 ms
+  GFLOPS: 1.21701e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.375206 ms
+  GFLOPS: 1.25566e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.735712 ms
+  GFLOPS: 1.28075e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0317632 ms
+  GFLOPS: 618027
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.107539 ms
+  GFLOPS: 730172
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.202573 ms
+  GFLOPS: 775248
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.384429 ms
+  GFLOPS: 817026
+
+
+========== Config: MmaTile=256x256x256, Cluster=2x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.178445 ms
+  GFLOPS: 330027
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.691014 ms
+  GFLOPS: 340899
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 1.36747 ms
+  GFLOPS: 344529
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 2.70093 ms
+  GFLOPS: 348867
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0928128 ms
+  GFLOPS: 211507
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.365606 ms
+  GFLOPS: 214772
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.702099 ms
+  GFLOPS: 223678
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _2x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 1.388 ms
+  GFLOPS: 226288
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x1, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0506176 ms
+  GFLOPS: 1.16346e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.159162 ms
+  GFLOPS: 1.48004e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.297792 ms
+  GFLOPS: 1.58209e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.57776 ms
+  GFLOPS: 1.63089e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0293184 ms
+  GFLOPS: 669563
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0776448 ms
+  GFLOPS: 1.0113e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.137043 ms
+  GFLOPS: 1.14595e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.253971 ms
+  GFLOPS: 1.23671e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x1, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0536832 ms
+  GFLOPS: 1.09702e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.172051 ms
+  GFLOPS: 1.36916e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.326074 ms
+  GFLOPS: 1.44487e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.636147 ms
+  GFLOPS: 1.48121e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0295104 ms
+  GFLOPS: 665207
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.082752 ms
+  GFLOPS: 948884
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.144621 ms
+  GFLOPS: 1.0859e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.270771 ms
+  GFLOPS: 1.15998e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x1, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.04448 ms
+  GFLOPS: 1.324e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.159565 ms
+  GFLOPS: 1.4763e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.301491 ms
+  GFLOPS: 1.56267e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.594566 ms
+  GFLOPS: 1.58479e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0243776 ms
+  GFLOPS: 805269
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.076416 ms
+  GFLOPS: 1.02756e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.139104 ms
+  GFLOPS: 1.12897e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.254182 ms
+  GFLOPS: 1.23568e+06
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x1, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.156294 ms
+  GFLOPS: 376799
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.551962 ms
+  GFLOPS: 426780
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 1.0824 ms
+  GFLOPS: 435267
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 2.13958 ms
+  GFLOPS: 440398
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0709056 ms
+  GFLOPS: 276854
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.212813 ms
+  GFLOPS: 368973
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.413523 ms
+  GFLOPS: 379771
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_1x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.797555 ms
+  GFLOPS: 393814
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x2, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.05184 ms
+  GFLOPS: 1.13603e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.172288 ms
+  GFLOPS: 1.36728e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.328518 ms
+  GFLOPS: 1.43411e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.637798 ms
+  GFLOPS: 1.47737e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.030752 ms
+  GFLOPS: 638349
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0973248 ms
+  GFLOPS: 806805
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.173894 ms
+  GFLOPS: 903101
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.323635 ms
+  GFLOPS: 970501
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x2, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0559552 ms
+  GFLOPS: 1.05248e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.192128 ms
+  GFLOPS: 1.22609e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.36601 ms
+  GFLOPS: 1.28721e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.716006 ms
+  GFLOPS: 1.316e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0315712 ms
+  GFLOPS: 621786
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0999616 ms
+  GFLOPS: 785523
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.184339 ms
+  GFLOPS: 851930
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.34903 ms
+  GFLOPS: 899888
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x2, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0485888 ms
+  GFLOPS: 1.21204e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.173491 ms
+  GFLOPS: 1.3578e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.332205 ms
+  GFLOPS: 1.4182e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.652934 ms
+  GFLOPS: 1.44312e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.02768 ms
+  GFLOPS: 709195
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.0919936 ms
+  GFLOPS: 853560
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.171046 ms
+  GFLOPS: 918138
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.326752 ms
+  GFLOPS: 961244
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x2, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.158368 ms
+  GFLOPS: 371865
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.606438 ms
+  GFLOPS: 388442
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 1.19054 ms
+  GFLOPS: 395730
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 2.35768 ms
+  GFLOPS: 399658
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0721152 ms
+  GFLOPS: 272211
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.281632 ms
+  GFLOPS: 278811
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.555226 ms
+  GFLOPS: 282848
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_2x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 1.07628 ms
+  GFLOPS: 291829
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x4, EpiTile=64x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.06208 ms
+  GFLOPS: 948640
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.208512 ms
+  GFLOPS: 1.12975e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.399795 ms
+  GFLOPS: 1.17843e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.785632 ms
+  GFLOPS: 1.19937e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0374912 ms
+  GFLOPS: 523603
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.114502 ms
+  GFLOPS: 685768
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.214266 ms
+  GFLOPS: 732942
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.410458 ms
+  GFLOPS: 765215
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x4, EpiTile=64x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.0663872 ms
+  GFLOPS: 887092
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.229805 ms
+  GFLOPS: 1.02507e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.444262 ms
+  GFLOPS: 1.06048e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.874944 ms
+  GFLOPS: 1.07694e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.0397184 ms
+  GFLOPS: 494243
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.12496 ms
+  GFLOPS: 628378
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.232666 ms
+  GFLOPS: 674978
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _64x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.452422 ms
+  GFLOPS: 694237
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x4, EpiTile=128x64 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.055936 ms
+  GFLOPS: 1.05284e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.20503 ms
+  GFLOPS: 1.14893e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 0.392422 ms
+  GFLOPS: 1.20058e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 0.77744 ms
+  GFLOPS: 1.21201e+06
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.033408 ms
+  GFLOPS: 587599
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.109184 ms
+  GFLOPS: 719172
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.206637 ms
+  GFLOPS: 760001
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_64
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 0.402483 ms
+  GFLOPS: 780376
+
+
+========== Config: MmaTile=256x256x256, Cluster=4x4, EpiTile=128x128 ==========
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x3456x1152
+  Avg runtime: 0.201786 ms
+  GFLOPS: 291852
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x3456x1152
+  Avg runtime: 0.749184 ms
+  GFLOPS: 314430
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x3456x1152
+  Avg runtime: 1.46946 ms
+  GFLOPS: 320616
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x3456x1152
+  Avg runtime: 2.91416 ms
+  GFLOPS: 323341
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 7396x1152x1152
+  Avg runtime: 0.113491 ms
+  GFLOPS: 172970
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 29584x1152x1152
+  Avg runtime: 0.388781 ms
+  GFLOPS: 201970
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 59168x1152x1152
+  Avg runtime: 0.761894 ms
+  GFLOPS: 206123
+
+Using GPU 3
+  MmaTileShape: _256x_256x_256
+  ClusterShape: _4x_4x_1
+  EpilogueTileShape: _128x_128
+  Disposition: Passed
+  Problem Size: 118336x1152x1152
+  Avg runtime: 1.49752 ms
+  GFLOPS: 209739
+
+
+========== Config: MmaTile=512x128x128, Cluster=2x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=2x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x128, Cluster=4x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=2x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x128x256, Cluster=4x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=2x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x128, Cluster=4x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=2x4, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x1, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x1, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x1, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x1, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x2, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x2, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x2, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x2, EpiTile=128x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x4, EpiTile=64x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x4, EpiTile=64x128 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x4, EpiTile=128x64 ==========
+Compile failed.
+
+========== Config: MmaTile=512x256x256, Cluster=4x4, EpiTile=128x128 ==========
+Compile failed.

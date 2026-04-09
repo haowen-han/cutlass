@@ -99,9 +99,9 @@ using         LayoutATag  = cutlass::layout::RowMajor;                      // L
 constexpr int AlignmentA  = 16;                                             // Memory access granularity/alignment of A matrix in units of elements (up to 16 bytes)
 
 // B matrix configuration
-using         ElementB    = cutlass::mx_float4_t<cutlass::float_e2m1_t>;    // Element type for A matrix operand
+using         ElementB    = cutlass::mx_float8_t<cutlass::float_e4m3_t>;    // Element type for B matrix operand
 using         LayoutBTag  = cutlass::layout::ColumnMajor;                   // Layout type for B matrix operand
-constexpr int AlignmentB  = 128;                                            // Memory access granularity/alignment of B matrix in units of elements (up to 16 bytes)
+constexpr int AlignmentB  = 16;                                             // Memory access granularity/alignment of B matrix in units of elements (up to 16 bytes)
 
 // C/D matrix configuration
 using         ElementD    = cutlass::bfloat16_t;                            // Element type for D matrix operand
@@ -116,17 +116,19 @@ using ArchTag             = cutlass::arch::Sm100;                           // T
 using OperatorClass       = cutlass::arch::OpClassBlockScaledTensorOp;      // Operator class tag
 
 // Kernel Perf config
-using MmaTileShape        = Shape<_256,_256,_256>;                          // MMA's tile size
-using ClusterShape        = Shape<_2,_4,_1>;                                // Shape of the threadblocks in a cluster
+using MmaTileShape        = Shape<_256,_128,_128>;                          // MMA's tile size
+using ClusterShape        = Shape<_2,_1,_1>;                                // Shape of the threadblocks in a cluster
+using EpilogueTileShape   = Shape<_128, _64>;
+
 
 using CollectiveEpilogue = typename cutlass::epilogue::collective::CollectiveBuilder<
     ArchTag, OperatorClass,
     MmaTileShape, ClusterShape,
-    cutlass::epilogue::collective::EpilogueTileAuto,
+    EpilogueTileShape,
     ElementAccumulator, ElementAccumulator,
     ElementC, LayoutCTag, AlignmentC,
     ElementD, LayoutDTag, AlignmentD,
-    cutlass::epilogue::collective::EpilogueScheduleAuto                      // Epilogue schedule policy
+    cutlass::epilogue::TmaWarpSpecialized2Sm                           // 2SM epilogue schedule
   >::CollectiveOp;
 
 using CollectiveMainloop = typename cutlass::gemm::collective::CollectiveBuilder<
@@ -136,14 +138,14 @@ using CollectiveMainloop = typename cutlass::gemm::collective::CollectiveBuilder
     ElementAccumulator,
     MmaTileShape, ClusterShape,
     cutlass::gemm::collective::StageCountAutoCarveout<static_cast<int>(sizeof(typename CollectiveEpilogue::SharedStorage))>,
-    cutlass::gemm::collective::KernelScheduleAuto                             // Kernel schedule policy. Auto or using targeted scheduling policy
+    cutlass::gemm::KernelTmaWarpSpecialized2SmBlockScaledSm100        // 2SM block-scaled kernel schedule
   >::CollectiveOp;
 
 using GemmKernel = cutlass::gemm::kernel::GemmUniversal<
     Shape<int,int,int,int>,                                                   // Indicates ProblemShape
     CollectiveMainloop,
     CollectiveEpilogue,
-    void>;
+    cutlass::gemm::PersistentScheduler>;
 
 using Gemm = cutlass::gemm::device::GemmUniversalAdapter<GemmKernel>;
 
@@ -170,7 +172,7 @@ LayoutSFA layout_SFA;
 StrideB stride_B;
 LayoutB layout_B;
 LayoutSFB layout_SFB;
-StrideC stride_C;
+StrideC stride_C;  // Broadcast stride for bias: (0, 1, 0) means M-stride=0, N-stride=1
 LayoutC layout_C;
 StrideD stride_D;
 LayoutD layout_D;
@@ -182,7 +184,7 @@ cutlass::HostTensor<ElementA::DataType, cutlass::layout::PackedVectorLayout> blo
 cutlass::HostTensor<ElementA::ScaleFactorType, cutlass::layout::PackedVectorLayout> block_SFA;
 cutlass::HostTensor<ElementB::DataType, cutlass::layout::PackedVectorLayout> block_B;
 cutlass::HostTensor<ElementB::ScaleFactorType, cutlass::layout::PackedVectorLayout> block_SFB;
-cutlass::HostTensor<ElementC, cutlass::layout::PackedVectorLayout> block_C;
+cutlass::HostTensor<ElementC, cutlass::layout::PackedVectorLayout> block_C;  // Bias (1D, N elements, broadcast on M as C matrix)
 // Output Tensor
 cutlass::HostTensor<ElementD, cutlass::layout::PackedVectorLayout> block_D;
 // Reference Output Tensor
@@ -336,19 +338,20 @@ void initialize(const Options &options) {
 
   stride_A = cutlass::make_cute_packed_stride(StrideA{}, {options.m, options.k, 1});
   stride_B = cutlass::make_cute_packed_stride(StrideB{}, {options.n, options.k, 1});
-  stride_C = cutlass::make_cute_packed_stride(StrideC{}, {options.m, options.n, 1});
+  // Bias broadcast stride: stride(0, 1, 0) broadcasts 1D bias of N elements along M dimension
+  stride_C = cute::make_stride(int64_t(0), cute::C<1>{}, int64_t(0));
   stride_D = cutlass::make_cute_packed_stride(StrideD{}, {options.m, options.n, 1});
 
   layout_A = make_layout(make_shape(options.m, options.k, 1), stride_A);
   layout_B = make_layout(make_shape(options.n, options.k, 1), stride_B);
-  layout_C = make_layout(make_shape(options.m, options.n, 1), stride_C);
+  layout_C = make_layout(make_shape(1, options.n, 1), stride_C);
   layout_D = make_layout(make_shape(options.m, options.n, 1), stride_D);
   layout_SFA = Sm1xxBlkScaledConfig::tile_atom_to_shape_SFA(cute::make_shape(options.m, options.n, options.k, 1));
   layout_SFB = Sm1xxBlkScaledConfig::tile_atom_to_shape_SFB(cute::make_shape(options.m, options.n, options.k, 1));
 
   block_A.reset(cutlass::make_Coord(size(layout_A)));
   block_B.reset(cutlass::make_Coord(size(layout_B)));
-  block_C.reset(cutlass::make_Coord(size(layout_C)));
+  block_C.reset(cutlass::make_Coord(options.n));  // Bias: 1D tensor of N elements
   block_D.reset(cutlass::make_Coord(size(layout_D)));
   block_reference_D.reset(cutlass::make_Coord(size(layout_D)));
   block_SFA.reset(cutlass::make_Coord(size(filter_zeros(layout_SFA))));
@@ -356,7 +359,7 @@ void initialize(const Options &options) {
 
   initialize_block(block_A.host_view(), seed + 2021);
   initialize_block(block_B.host_view(), seed + 2022);
-  initialize_block(block_C.host_view(), seed + 2023);
+  initialize_block(block_C.host_view(), seed + 2026);  // Bias
   initialize_block(block_SFA.host_view(), seed + 2024);
   initialize_block(block_SFB.host_view(), seed + 2025);
 
@@ -379,8 +382,10 @@ typename Gemm::Arguments args_from_options(const Options &options)
       block_SFA.device_data(), layout_SFA,
       block_SFB.device_data(), layout_SFB
     },
-    { // Epilogue arguments
-      {options.alpha, options.beta},
+    { // Epilogue arguments: D = alpha * acc + beta * C(bias)
+      // alpha=1, beta=1 so D = A*B + bias
+      // C is bias with broadcast stride (0,1,0) for per-column broadcast on M
+      {1.f, 1.f},
       block_C.device_data(), stride_C,
       block_D.device_data(), stride_D
     }
@@ -409,13 +414,15 @@ bool verify(const Options &options) {
   auto tensor_C = cute::make_tensor(make_iterator(block_C.host_data()), layout_C);
   auto tensor_D = cute::make_tensor(make_iterator(block_reference_D.host_data()), layout_D);
 
+  // alpha=1, beta=1: D = 1.0 * A*B + 1.0 * C(bias) = A*B + bias
+  // layout_C has broadcast stride (0,1,0), so tensor_C(m,n) = bias(n) — automatic row broadcast
   cutlass::reference::host::GettBlockScalingEpilogueParams<
       ElementAccumulator,                   // ElementScalar
       ElementAccumulator,                   // ElementAccumulator
       ElementAccumulator,                   // ElementCompute
       decltype(tensor_C),                   // TensorC
       decltype(tensor_D)                    // TensorD
-    > epilogue_params{options.alpha, options.beta, tensor_C, tensor_D};
+    > epilogue_params{1.f, 1.f, tensor_C, tensor_D};
 
   cutlass::reference::host::Gemm3x(mainloop_params, epilogue_params);
 
@@ -470,6 +477,11 @@ int run(Options &options)
   // Run profiling loop
   if (options.iterations > 0)
   {
+    // Warmup
+    for (int iter = 0; iter < options.iterations; ++iter) {
+      CUTLASS_CHECK(gemm.initialize(arguments, workspace.get()));
+      CUTLASS_CHECK(gemm.run());
+    }
     GpuTimer timer;
     timer.start();
     for (int iter = 0; iter < options.iterations; ++iter) {
@@ -486,7 +498,7 @@ int run(Options &options)
 
     std::cout << "  Problem Size: " << options.m << 'x' << options.n << 'x' << options.k << std::endl;
     std::cout << "  Avg runtime: " << result.avg_runtime_ms << " ms" << std::endl;
-    std::cout << "  GFLOPS: " << result.gflops << std::endl;
+    std::cout << "  GFLOPS: " << result.gflops << std::endl << std::endl;
   }
 
   return 0;
@@ -497,6 +509,10 @@ int run(Options &options)
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 int main(int argc, char const **args) {
+  // Print compile-time kernel config
+  std::cout << "  MmaTileShape: " << size<0>(MmaTileShape{}) << "x" << size<1>(MmaTileShape{}) << "x" << size<2>(MmaTileShape{}) << std::endl;
+  std::cout << "  ClusterShape: " << size<0>(ClusterShape{}) << "x" << size<1>(ClusterShape{}) << "x" << size<2>(ClusterShape{}) << std::endl;
+  std::cout << "  EpilogueTileShape: " << size<0>(EpilogueTileShape{}) << "x" << size<1>(EpilogueTileShape{}) << std::endl;
 
   // CUTLASS must be compiled with CUDA 12.8 or higher Toolkit to run this example
   // and must have compute capability at least 100.
